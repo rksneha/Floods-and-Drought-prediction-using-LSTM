@@ -14,4 +14,7 @@ The day-wise dataset for this project has been downloaded from NASA’s Global M
  It contains the following weather related fields- ​Rainfall​, ​Relative Humidity​, ​Pressure​, Wind Speed​, ​Wind Direction​, ​Snowfall​, ​Snow-depth ​and ​Short wave irradiation (Sunlight). 
  The columns Snow fall and snow depth has been removed. The chennai's 4 reservoirs' water levels that has been taken from kaggle has been merged with this dataset since the rows can be identified with dates.
  
+ ## RESULTS 
+ The RMSE for the model is 6.1. The model has predicted flood condition only once in mid march of 2018 which is when chennai had severe rainfall. Since 2018 chennai faced a severe water crisis and the model was able to predict normal and drought conditions well.
+ 
  
